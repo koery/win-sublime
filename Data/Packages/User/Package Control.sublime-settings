@@ -1,0 +1,31 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Colorcoder",
+		"ConvertToUTF8",
+		"CTags",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"IMESupport",
+		"Nil-Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PyV8",
+		"SideBarEnhancements",
+		"SyncedSidebarBg",
+		"Theme - Flatland",
+		"ZZZ"
+	]
+}
