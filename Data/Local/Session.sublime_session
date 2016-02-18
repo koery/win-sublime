@@ -27,27 +27,6 @@
 			},
 			"buffers":
 			[
-				{
-					"contents": "<?php\n/*\n* @Desc 应用管理\n* @Auth Sang\n* @Date 2015-08-20 09:06:00\n**/\nnamespace Act\\App;\nuse Act\\Os\\Backend;\nclass App extends Backend{\n	public function doAdd(){\n		if(is_post()){\n			$mod = model('App');\n			$url = post('url');\n			if(is_url($url) || $url{0}!='/'){\n				return $this->error('应用入口不正确，应类似：/shop/index');\n			}\n			$ret = $mod->addApp($_POST);\n			if($ret!==false){\n				return $this->success('添加应用成功','/app/apps');\n			}\n		}\n		$groups_options = model('AppGroup')->getAppGroupToOptions(0);\n		$this->display('form.php',[\n			'groups_options' => $groups_options,\n		]);\n	}\n\n	/**\n	* 修改应用\n	* @access public\n	* @return void\n	*/\n	public function doUpdate(){\n		$id = get('id',0,'absint');\n		if(empty($id)){\n			return $this->error('invalid id');\n		}\n		$app_mod = model('App');\n		$app = $app_mod->getAppById($id);\n		if(empty($app)){\n			return $this->error('该应用不存在');\n		}\n		if(is_post()){\n			$ret = $app_mod->updateApp($id,$_POST);\n			if($ret!==false){\n				return $this->success('修改应用成功',referer());\n			}\n			$app = $_POST;\n		}\n		referer(referer());\n		$_POST = $app;\n		$this->display('form.php',[\n			'app' => $app,\n			'groups_options' => model('AppGroup')->getAppGroupToOptions($app['group_id']),\n		]);\n	}\n\n	/**\n	* 删除应用\n	* @access public\n	* @return void\n	*/\n	public function doDelete(){\n		$id = get('id',0,'absint');\n		if(empty($id)){\n			return $this->error('invalid id');\n		}\n		$app_mod = model('App');\n		$ret = $app_mod->delApp($id);\n		if($ret!==false){\n			return $this->success('删除应用成功');\n		}else{\n			return $this->error($app_mod->getError());\n		}\n	}\n}",
-					"file": "/F/yedadou/openyedadou_trunk/admin/company/Act/App/App.php",
-					"file_size": 1715,
-					"file_write_time": 130977604610782527,
-					"settings":
-					{
-						"buffer_size": 1544,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nSublimeLinter:\n-------------\n\n  \n    ____        _     _ _                _     _       _\n   / ___| _   _| |__ | (_)_ __ ___   ___| |   (_)_ __ | |_ ___ _ __\n   \\___ \\| | | | '_ \\| | | '_ ` _ \\ / _ \\ |   | | '_ \\| __/ _ \\ '__|\n    ___) | |_| | |_) | | | | | | | |  __/ |___| | | | | ||  __/ |\n   |____/ \\__,_|_.__/|_|_|_| |_| |_|\\___|_____|_|_| |_|\\__\\___|_|\n  \n  \n  Welcome to SublimeLinter, a linter framework for Sublime Text 3.\n  \n                   * * * IMPORTANT! * * *\n  \n          SublimeLinter 3 is NOT a drop-in replacement for\n          earlier versions.\n  \n          Linters *NOT* included with SublimeLinter 3, \n          they must be installed separately.\n  \n          The settings are different.\n  \n                  * * * READ THE DOCS! * * *\n  \n  Otherwise you will never know how to install linters, nor will\n  you know about all of the great new features in SublimeLinter 3.\n  \n  For complete documentation on how to install and use SublimeLinter,\n  please see:\n  \n  http://www.sublimelinter.com\n  \n  \n                   _   _      _       _\n                  | | | | ___| |_ __ | |\n                  | |_| |/ _ \\ | '_ \\| |\n                  |  _  |  __/ | |_) |_|\n                  |_| |_|\\___|_| .__/(_)\n                               |_|\n  \n  \n  Hundreds of hours have been spent writing and documenting SublimeLinter\n  to make it the best it can be — easy to use, easy to configure,\n  easy to update, easy to extend. If you use SublimeLinter and feel\n  it is making your coding life better and easier, please consider\n  making a donation to help fund development and support.\n  \n  To donate: https://github.com/SublimeLinter/SublimeLinter3#share-the-love\n  \n  Thank you!\n  \n\n\nSublimeLinter-php:\n-----------------\n\n  SublimeLinter-php\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to php -l.\n  \n  ** IMPORTANT! **\n  \n  Before this plugin will activate, you *must*\n  follow the installation instructions here:\n  \n  https://github.com/SublimeLinter/SublimeLinter-php\n  \n",
-					"settings":
-					{
-						"buffer_size": 2091,
-						"line_ending": "Windows",
-						"name": "Package Control Messages",
-						"scratch": true
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -97,22 +76,24 @@
 			},
 			"expanded_folders":
 			[
-				"/F/yedadou/openyedadou_trunk/admin",
-				"/F/yedadou/openyedadou_trunk/admin/company",
-				"/F/yedadou/openyedadou_trunk/admin/company/Act",
-				"/F/yedadou/openyedadou_noopen",
+				"/F/yedadou/openyedadou_trunk",
+				"/F/yedadou/openyedadou_trunk/admin/Lib",
+				"/F/yedadou/openyedadou_trunk/api",
+				"/F/yedadou/openyedadou_trunk/apps",
+				"/F/yedadou/openyedadou_trunk/apps/Lib",
+				"/F/yedadou/openyedadou_trunk/apps/Log",
+				"/F/yedadou/openyedadou_trunk/weixin/api",
+				"/F/yedadou/openyedadou_trunk/weixin/Mod",
 				"/F/yedadou/openyedadou_noopen/admin",
-				"/F/yedadou/openyedadou_noopen/admin/company",
-				"/F/yedadou/openyedadou_noopen/admin/company/Act",
-				"/F/yedadou/openyedadou_noopen/admin/company/Act/Tools",
-				"/F/yedadou/openyedadou_noopen/apps/Tpl",
-				"/F/yedadou/openyedadou_noopen/apps/Tpl/default",
-				"/F/yedadou/openyedadou_noopen/apps/Tpl/default/yiyuan",
-				"/F/yedadou/openyedadou_noopen/apps/Tpl/default/yiyuan/pintuan",
-				"/F/yedadou/openyedadou_noopen/apps/Tpl/default/yiyuan/pintuan/mygroups"
+				"/F/yedadou/openyedadou_noopen/admin/company"
 			],
 			"file_history":
 			[
+				"/F/yedadou/openyedadou_trunk/admin/company/Act/App/App.php",
+				"/D/sublime/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/Desktop/BaseAdmin.php",
+				"/C/Users/Administrator/Desktop/Yedadou商城优化方案",
+				"/F/yedadou/openyedadou_trunk/apps/Lib/FeiLib/Fitervalidator.php",
 				"/F/yedadou/openyedadou_trunk/admin/company/Act/Os/Backend.php",
 				"/F/yedadou/openyedadou_trunk/apps/Tpl/default/yiyuan/pintuan/group/index.php",
 				"/D/sublime/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
@@ -123,8 +104,7 @@
 				"/D/sublime/Data/Packages/Colorcoder/Flatland Monokai (Colorcoded).tmTheme",
 				"/D/sublime/Data/Packages/Theme - Flatland/Flatland Dark.sublime-theme",
 				"/D/sublime/Data/Packages/Theme - Flatland/Flatland Monokai.tmTheme",
-				"/F/yedadou/openyedadou_trunk/old-new.sql",
-				"/D/sublime/Data/Packages/User/Preferences.sublime-settings"
+				"/F/yedadou/openyedadou_trunk/old-new.sql"
 			],
 			"find":
 			{
@@ -142,6 +122,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					",\n",
+					"	\"",
 					"去支付",
 					"sidebartree",
 					"sidebar_label"
@@ -177,189 +159,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/F/yedadou/openyedadou_trunk/admin/company/Act/App/App.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1544,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1200,
-										1200
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"colorcode": true,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 966.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2091,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1525,
-										1525
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_indent": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"colorcode": true,
-									"default_dir": "F:\\yedadou\\openyedadou_trunk",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 714.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -399,7 +200,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,2,-32000,-32000,-1,-1,986,522,276,1516",
+			"position": "0,2,3,-32000,-32000,-1,-1,986,522,276,1516",
 			"project": "",
 			"replace":
 			{
@@ -441,7 +242,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 232.0,
+			"side_bar_width": 318.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

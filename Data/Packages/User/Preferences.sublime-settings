@@ -1,3 +1,6 @@
+/**
+ *  个性化配置
+ */
 {
 	"color_scheme": "Packages/Colorcoder/Flatland Monokai (Colorcoded) (SL) (Colorcoded).tmTheme",
 	"font_face": "Monaco",
@@ -7,6 +10,18 @@
 		"Vintage"
 	],
 	"original_color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (Colorcoded) (SL).tmTheme",
-	"update_check": false,
-	"word_wrap": "auto"
+	"word_wrap": "auto",
+	//关闭自动更新
+	"update_check":false,
+
+	//行底部的内填充 数字大小就是行间距
+	"line_padding_bottom": 1, 
+	//行顶部的内填充 数字大小就是行间距
+	"line_padding_top": 1,
+	// 光标闪动方式
+	"caret_style": "phase", 
+	// 自动换行 
+	"word_wrap": true,
+	// 高亮有修改的标签
+	"highlight_modified_tabs": true,
 }
