@@ -9,6 +9,7 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",

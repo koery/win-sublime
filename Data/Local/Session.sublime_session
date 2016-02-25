@@ -1,16 +1,315 @@
 {
 	"folder_history":
 	[
+		"/F/shopnc",
+		"/F/xampp/htdocs/Examples",
+		"/F/SW",
+		"/F/CXSV",
+		"/F/PHP",
+		"/F/Yedadou/code/openyedadou_trunk",
+		"/F/sinaWork",
+		"/F/php",
+		"/C/Users/Administrator/Desktop/swoole-src-swoole-1.7.21-stable",
 		"/F/yedadou/openyedadou_noopen",
 		"/F/sw",
 		"/F/Cxsv.bak",
 		"/F/yedadou/openyedadou_trunk"
 	],
 	"last_version": 3095,
-	"last_window_id": 1,
+	"last_window_id": 4,
 	"log_indexing": false,
 	"settings":
 	{
+		"new_window_height": 621.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ge",
+						"getMessage"
+					],
+					[
+						"pin",
+						"pintuanJoinMod"
+					],
+					[
+						"hit",
+						"hit_uid"
+					],
+					[
+						"f",
+						"font"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 336.0,
+				"last_filter": "view",
+				"selected_items":
+				[
+					[
+						"view",
+						"View: Toggle Side Bar"
+					],
+					[
+						"packagelis",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"m",
+						"View: Toggle Menu"
+					],
+					[
+						"package v",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/Cxsv.bak/load.php",
+				"/F/Cxsv.bak/appServer.php",
+				"/F/Cxsv.bak/lib/AppServer.php",
+				"/F/sw/plugin/onResponse/onResponse.php",
+				"/F/Cxsv.bak/lib/HttpServer.php",
+				"/F/sw/lib/AppServer.php",
+				"/F/sw/lib/HttpServer.php",
+				"/F/yedadou/openyedadou_trunk/admin/vendor/Act/Finance/Audit.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/BaseOrder.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Order/Callback.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/BaseCallbackYiyuan.php",
+				"/F/yedadou/openyedadou_trunk/admin/vendor/Act/Finance/ReCommission.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Start.php",
+				"/C/Users/Administrator/Desktop/Yedadou商城优化方案",
+				"/D/sublime/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/D/sublime/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/BasePintuan.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Shop/ShopGoods/ProductDetails.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Shop/BaseShop.php",
+				"/F/sw/lib/Model.php",
+				"/F/sw/lib/Loader.php",
+				"/F/yedadou/openyedadou_trunk/apps/Cron/PintuanAutoFail.php",
+				"/F/yedadou/openyedadou_trunk/api/Act/Yedadou/Flow/Money.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Admin/Order/OrderList.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Callback.php",
+				"/D/sublime/Data/Packages/User/Preferences.sublime-settings",
+				"/F/yedadou/openyedadou_trunk/apps/Plugin/PintuanLottery/PintuanLottery.php",
+				"/F/yedadou/openyedadou_trunk/weixin/api/Act/Pay/OrderPay.php",
+				"/F/yedadou/openyedadou_trunk/apps/Mod/ShopGoodsConfig.php",
+				"/D/sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/sublime/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/D/sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/F/Cxsv.bak/lib/Model.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Group.php",
+				"/F/sw/load.php",
+				"/F/php/nothing/getimgs.php",
+				"/F/yedadou/openyedadou_trunk/apps/Tpl/default/yiyuan/pintuan/public/html_header.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/BaseApp.php",
+				"/F/yedadou/openyedadou_trunk/apps/Tpl/default/yiyuan/pintuan/group/index.php",
+				"/F/sw/lib/Payment/Payment.php",
+				"/F/yedadou/openyedadou_trunk/weixin/Task/PayCallback.php",
+				"/F/sw/lib/Payment/Weixin/Weixin.php",
+				"/F/yedadou/openyedadou_trunk/weixin/api/Act/Pay/WxPay.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Pay/Pay.php",
+				"/F/yedadou/openyedadou_trunk/api/Mod/BaseOrder.php",
+				"/F/yedadou/openyedadou_trunk/admin/company/Act/App/App.php",
+				"/C/Users/Administrator/Desktop/BaseAdmin.php",
+				"/F/yedadou/openyedadou_trunk/apps/Lib/FeiLib/Fitervalidator.php",
+				"/F/yedadou/openyedadou_trunk/admin/company/Act/Os/Backend.php",
+				"/D/sublime/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/sublime/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/F/yedadou/openyedadou_noopen/apps/Tpl/default/yiyuan/pintuan/mygroups/index.php",
+				"/D/sublime/Data/Packages/Theme - Default/Default.sublime-theme",
+				"/D/sublime/Data/Packages/Colorcoder/Flatland Monokai (Colorcoded).tmTheme",
+				"/D/sublime/Data/Packages/Theme - Flatland/Flatland Dark.sublime-theme",
+				"/D/sublime/Data/Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+				"/F/yedadou/openyedadou_trunk/old-new.sql"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 111.0,
+				"where_history":
+				[
+					"F:\\Cxsv.bak",
+					"F:\\sw",
+					"F:\\Cxsv.bak",
+					"F:\\yedadou\\openyedadou_trunk",
+					"F:\\Cxsv.bak",
+					"F:\\yedadou\\openyedadou_trunk"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"OnRequest",
+					"start",
+					"_onRequest",
+					"nsPath",
+					"__autoload",
+					"nsPath",
+					"response",
+					"serv",
+					"start",
+					"_onRequest",
+					"recommission",
+					"log",
+					"procCommissionsYiyuan",
+					"_getDate",
+					"setProcReqFun",
+					"onRequest",
+					"on_request",
+					"_onRequest",
+					"Request",
+					"updateMasterInfo",
+					"getGoodsDetails",
+					"checkLottery",
+					"checkTuanStatus",
+					"alt+up",
+					"up",
+					"getStore",
+					"payCallback",
+					"setUrlCallback",
+					"去支付",
+					"支付中",
+					",\n",
+					"	\"",
+					"去支付",
+					"sidebartree",
+					"sidebar_label"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 41.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"l/app",
+						"Cxsv.bak\\lib\\AppServer.php"
+					],
+					[
+						"apps",
+						"Cxsv.bak\\appServer.php"
+					],
+					[
+						"load",
+						"sw\\lib\\Loader.php"
+					],
+					[
+						"shopgoodsco",
+						"openyedadou_trunk\\apps\\Mod\\ShopGoodsConfig.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 406.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1292.0
 	},
 	"windows":
 	[
@@ -19,6 +318,26 @@
 			{
 				"selected_items":
 				[
+					[
+						"s",
+						"stack"
+					],
+					[
+						"to",
+						"todo	@todo"
+					],
+					[
+						"ge",
+						"getMessage"
+					],
+					[
+						"pin",
+						"pintuanJoinMod"
+					],
+					[
+						"hit",
+						"hit_uid"
+					],
 					[
 						"f",
 						"font"
@@ -35,13 +354,29 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "ins",
+				"height": 336.0,
+				"last_filter": "view",
 				"selected_items":
 				[
 					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"packagelis",
+						"Package Control: Install Package"
+					],
+					[
 						"ins",
 						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"m",
+						"View: Toggle Menu"
 					],
 					[
 						"package v",
@@ -56,7 +391,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 464.0
+				"width": 528.0
 			},
 			"console":
 			{
@@ -76,45 +411,160 @@
 			},
 			"expanded_folders":
 			[
-				"/F/yedadou/openyedadou_trunk",
-				"/F/yedadou/openyedadou_trunk/admin/Lib",
-				"/F/yedadou/openyedadou_trunk/api",
-				"/F/yedadou/openyedadou_trunk/apps",
-				"/F/yedadou/openyedadou_trunk/apps/Lib",
-				"/F/yedadou/openyedadou_trunk/apps/Log",
-				"/F/yedadou/openyedadou_trunk/weixin/api",
-				"/F/yedadou/openyedadou_trunk/weixin/Mod",
-				"/F/yedadou/openyedadou_noopen/admin",
-				"/F/yedadou/openyedadou_noopen/admin/company"
+				"/F/Yedadou/code/openyedadou_trunk/apps",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Mod",
+				"/F/PHP",
+				"/F/PHP/Lab"
 			],
 			"file_history":
 			[
-				"/F/yedadou/openyedadou_trunk/admin/company/Act/App/App.php",
 				"/D/sublime/Data/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Administrator/Desktop/BaseAdmin.php",
-				"/C/Users/Administrator/Desktop/Yedadou商城优化方案",
-				"/F/yedadou/openyedadou_trunk/apps/Lib/FeiLib/Fitervalidator.php",
-				"/F/yedadou/openyedadou_trunk/admin/company/Act/Os/Backend.php",
-				"/F/yedadou/openyedadou_trunk/apps/Tpl/default/yiyuan/pintuan/group/index.php",
-				"/D/sublime/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/sublime/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/新建文件夹/config.ini",
+				"/F/PHP/Lab/phpinfo.php",
+				"/D/xampp/php/php.ini",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseAdminFei.php",
 				"/D/sublime/Data/Packages/User/SublimeLinter.sublime-settings",
-				"/F/yedadou/openyedadou_noopen/apps/Tpl/default/yiyuan/pintuan/mygroups/index.php",
+				"/D/sublime/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseAdmin.php",
+				"/F/shopnc/data/model/setting.model.php",
+				"/F/shopnc/core/framework/function/core.php",
+				"/F/shopnc/admin/control/promotion_mansong.php",
+				"/F/shopnc/admin/templates/default/promotion_mansong.setting.php",
+				"/C/Users/Administrator/Desktop/修改文档.txt",
+				"/F/shopnc/admin/templates/default/voucher.setting.php",
+				"/F/shopnc/admin/control/voucher.php",
+				"/F/shopnc/index.php",
+				"/F/shopnc/admin/index.php",
+				"/F/shopnc/admin/templates/default/promotion_bundling.setting.php",
+				"/F/shopnc/core/framework/core/base.php",
+				"/F/shopnc/global.php",
+				"/F/shopnc/shop/index.php",
+				"/F/Yedadou/code/openyedadou_trunk/readme.txt",
+				"/C/Users/Administrator/Desktop/init.bat",
+				"/D/xampp/apache/conf/httpd.conf",
+				"/D/xampp/apache/conf/extra/httpd-ssl.conf",
+				"/D/xampp/apache/conf/extra/httpd-xampp.conf",
+				"/D/xampp/mysql/bin/my.ini",
+				"/F/PHP/Lab/date.php",
+				"/C/Users/Administrator/Desktop/新建文本文档.txt",
+				"/C/Users/Administrator/Desktop/sqlite3/kyominiblog.db3",
+				"/F/xampp/htdocs/forbidden/.htpasswd",
+				"/F/xampp/htdocs/forbidden/.htaccess",
+				"/F/xampp/htdocs/Examples/.project",
+				"/F/PHP/DesignModel/IMooc/Loader.php",
+				"/F/PHP/DesignModel/IMooc/Config.php",
+				"/F/xampp/htdocs/weishang备份/index.php",
+				"/F/PHP/DesignModel/IMooc/Application.php",
+				"/F/xampp/htdocs/weishang备份/backup_db.sh",
+				"/F/xampp/htdocs/weishang备份/Application/Proc/Controller/DbController.class.php",
+				"/F/xampp/htdocs/index.php",
+				"/F/PHP/DesignModel/index.php",
+				"/F/xampp/htdocs/xampp/start.php",
+				"/F/xampp/htdocs/xampp/phpinfo.php",
+				"/F/PHP/OOP/class11.php",
+				"/F/PHP/OOP/class12.php",
+				"/F/PHP/OOP/class13.php",
+				"/F/PHP/OOP/class14.php",
+				"/F/PHP/OOP/spl.php",
+				"/F/PHP/OOP/class03.php",
+				"/F/PHP/OOP/class04.php",
+				"/F/PHP/OOP/class05.php",
+				"/F/PHP/OOP/class06.php",
+				"/F/PHP/OOP/class08.php",
+				"/F/PHP/OOP/class09.php",
+				"/F/PHP/OOP/class10.php",
+				"/F/PHP/OOP/class02.php",
+				"/F/PHP/OOP/class01.php",
+				"/F/PHP/SinaWork/flight/Flight.php",
+				"/F/PHP/SinaWork/flight/Engine.php",
+				"/F/PHP/SinaWork/cgi/sinapay/public/Check.calss.php",
+				"/F/PHP/SinaWork/cgi/sinapay/public/Security.class.php",
+				"/F/PHP/SinaWork/flight/autoload.php",
+				"/F/PHP/SinaWork/flight/core/Loader.php",
+				"/F/PHP/SinaWork/cgi/sinapay/order1.class.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Task/SendMessageToGroup.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseCallback.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Shop/Order/Callback.php",
+				"/F/PHP/Lab/call_user_func.php",
+				"/D/sublime/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/F/PHP/SinaWork/源码框架开发使用文档.pdf",
+				"/F/PHP/Lab/Export.php",
+				"/F/PHP/Lab/Import.php",
+				"/F/PHP/Lab/cate.html",
+				"/F/PHP/README.md",
+				"/F/sw/lib/Model.php",
+				"/F/nodejs/callback.js",
+				"/F/Data/phiz.php",
+				"/F/Cxsv.bak/mark.md",
+				"/F/Cxsv.bak/lib/HttpServer.php",
+				"/F/Cxsv.bak/plugin/onResponse/onResponse.php",
 				"/F/Cxsv.bak/load.php",
-				"/D/sublime/Data/Packages/Theme - Default/Default.sublime-theme",
-				"/D/sublime/Data/Packages/Colorcoder/Flatland Monokai (Colorcoded).tmTheme",
-				"/D/sublime/Data/Packages/Theme - Flatland/Flatland Dark.sublime-theme",
-				"/D/sublime/Data/Packages/Theme - Flatland/Flatland Monokai.tmTheme",
-				"/F/yedadou/openyedadou_trunk/old-new.sql"
+				"/F/Cxsv.bak/lib/AppServer.php",
+				"/F/Cxsv.bak/appServer.php",
+				"/F/Cxsv.bak/lib/Loader.php",
+				"/F/Cxsv.bak/lib/Model.php",
+				"/F/php/call_user_func.php",
+				"/F/sw/plugin/onResponse/onResponse.php",
+				"/F/sw/lib/AppServer.php",
+				"/F/sw/lib/HttpServer.php",
+				"/F/yedadou/openyedadou_trunk/admin/vendor/Act/Finance/Audit.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/BaseOrder.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Order/Callback.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/BaseCallbackYiyuan.php",
+				"/F/yedadou/openyedadou_trunk/admin/vendor/Act/Finance/ReCommission.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Start.php",
+				"/C/Users/Administrator/Desktop/Yedadou商城优化方案",
+				"/D/sublime/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/D/sublime/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/BasePintuan.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Shop/ShopGoods/ProductDetails.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Shop/BaseShop.php",
+				"/F/sw/lib/Loader.php",
+				"/F/yedadou/openyedadou_trunk/apps/Cron/PintuanAutoFail.php",
+				"/F/yedadou/openyedadou_trunk/api/Act/Yedadou/Flow/Money.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Admin/Order/OrderList.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Callback.php",
+				"/F/yedadou/openyedadou_trunk/apps/Plugin/PintuanLottery/PintuanLottery.php",
+				"/F/yedadou/openyedadou_trunk/weixin/api/Act/Pay/OrderPay.php",
+				"/F/yedadou/openyedadou_trunk/apps/Mod/ShopGoodsConfig.php",
+				"/D/sublime/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/D/sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Group.php",
+				"/F/sw/load.php",
+				"/F/php/nothing/getimgs.php",
+				"/F/yedadou/openyedadou_trunk/apps/Tpl/default/yiyuan/pintuan/public/html_header.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/BaseApp.php",
+				"/F/yedadou/openyedadou_trunk/apps/Tpl/default/yiyuan/pintuan/group/index.php",
+				"/F/sw/lib/Payment/Payment.php",
+				"/F/yedadou/openyedadou_trunk/weixin/Task/PayCallback.php",
+				"/F/sw/lib/Payment/Weixin/Weixin.php",
+				"/F/yedadou/openyedadou_trunk/weixin/api/Act/Pay/WxPay.php",
+				"/F/yedadou/openyedadou_trunk/apps/Act/Pay/Pay.php",
+				"/F/yedadou/openyedadou_trunk/api/Mod/BaseOrder.php",
+				"/F/yedadou/openyedadou_trunk/admin/company/Act/App/App.php",
+				"/C/Users/Administrator/Desktop/BaseAdmin.php",
+				"/F/yedadou/openyedadou_trunk/apps/Lib/FeiLib/Fitervalidator.php"
 			],
 			"find":
 			{
-				"height": 31.0
+				"height": 41.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 111.0,
 				"where_history":
 				[
+					"F:\\shopnc",
+					"F:\\Yedadou\\code\\openyedadou_trunk",
+					"F:\\Cxsv.bak",
+					"F:\\sw",
+					"F:\\Cxsv.bak",
+					"F:\\yedadou\\openyedadou_trunk",
+					"F:\\Cxsv.bak",
+					"F:\\yedadou\\openyedadou_trunk"
 				]
 			},
 			"find_state":
@@ -122,6 +572,48 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"com",
+					"extension",
+					"taobao_api_isuse",
+					"F:",
+					"browscap ",
+					"F:",
+					"F",
+					"get",
+					"share_data",
+					"log",
+					"sleep",
+					"SendMessageToGroup",
+					"OnRequest",
+					"start",
+					"_onRequest",
+					"nsPath",
+					"__autoload",
+					"nsPath",
+					"response",
+					"serv",
+					"start",
+					"_onRequest",
+					"recommission",
+					"log",
+					"procCommissionsYiyuan",
+					"_getDate",
+					"setProcReqFun",
+					"onRequest",
+					"on_request",
+					"_onRequest",
+					"Request",
+					"updateMasterInfo",
+					"getGoodsDetails",
+					"checkLottery",
+					"checkTuanStatus",
+					"alt+up",
+					"up",
+					"getStore",
+					"payCallback",
+					"setUrlCallback",
+					"去支付",
+					"支付中",
 					",\n",
 					"	\"",
 					"去支付",
@@ -144,16 +636,22 @@
 			"folders":
 			[
 				{
-					"path": "F:\\yedadou\\openyedadou_trunk"
+					"path": "F:\\Yedadou\\code\\openyedadou_trunk"
 				},
 				{
-					"path": "F:\\Cxsv.bak"
+					"path": "F:\\PHP"
 				},
 				{
-					"path": "F:\\sw"
+					"path": "F:\\CXSV"
 				},
 				{
-					"path": "F:\\yedadou\\openyedadou_noopen"
+					"path": "F:\\SW"
+				},
+				{
+					"path": "F:\\xampp\\htdocs\\Examples"
+				},
+				{
+					"path": "F:\\shopnc"
 				}
 			],
 			"groups":
@@ -166,11 +664,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 31.0
+				"height": 41.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 41.0
 			},
 			"layout":
 			{
@@ -200,11 +698,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,986,522,276,1516",
+			"position": "0,2,3,-32000,-32000,-1,-1,818,162,139,1470",
 			"project": "",
 			"replace":
 			{
-				"height": 58.0
+				"height": 76.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -213,6 +711,26 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"vou",
+						"shopnc\\admin\\control\\voucher.php"
+					],
+					[
+						"l/app",
+						"Cxsv.bak\\lib\\AppServer.php"
+					],
+					[
+						"apps",
+						"Cxsv.bak\\appServer.php"
+					],
+					[
+						"load",
+						"sw\\lib\\Loader.php"
+					],
+					[
+						"shopgoodsco",
+						"openyedadou_trunk\\apps\\Mod\\ShopGoodsConfig.php"
+					]
 				],
 				"width": 0.0
 			},
@@ -242,7 +760,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 318.0,
+			"side_bar_width": 373.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
