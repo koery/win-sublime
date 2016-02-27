@@ -19,3 +19,8 @@
 	//自动换行
 	"word_wrap": true
 }
+
+/**
+ * ctrl+end 文件尾部
+ * ctrl+home 文件顶部
+ */
