@@ -1,12 +1,14 @@
 {
 	"folder_history":
 	[
+		"/D/sublime/Data/Packages/Mark",
+		"/F/SW",
+		"/F/Yedadou/code/openyedadou_trunk",
+		"/F/Yedadou/code/openyedadou_noopen",
+		"/F/PHP",
+		"/F/CXSV",
 		"/F/shopnc",
 		"/F/xampp/htdocs/Examples",
-		"/F/SW",
-		"/F/CXSV",
-		"/F/PHP",
-		"/F/Yedadou/code/openyedadou_trunk",
 		"/F/sinaWork",
 		"/F/php",
 		"/C/Users/Administrator/Desktop/swoole-src-swoole-1.7.21-stable",
@@ -16,7 +18,7 @@
 		"/F/yedadou/openyedadou_trunk"
 	],
 	"last_version": 3095,
-	"last_window_id": 4,
+	"last_window_id": 7,
 	"log_indexing": false,
 	"settings":
 	{
@@ -27,6 +29,70 @@
 			{
 				"selected_items":
 				[
+					[
+						"ro",
+						"row"
+					],
+					[
+						"c",
+						"count"
+					],
+					[
+						"my",
+						"mysql_connect"
+					],
+					[
+						"array_f",
+						"array_filter"
+					],
+					[
+						"exp",
+						"explode"
+					],
+					[
+						"row",
+						"rows"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"openi",
+						"open_id"
+					],
+					[
+						"requs",
+						"request_data"
+					],
+					[
+						"fi",
+						"fieldsData"
+					],
+					[
+						"res",
+						"resultData"
+					],
+					[
+						"a",
+						"argvs"
+					],
+					[
+						"argv",
+						"argvs"
+					],
+					[
+						"ch",
+						"check_data"
+					],
+					[
+						"s",
+						"stack"
+					],
+					[
+						"to",
+						"todo	@todo"
+					],
 					[
 						"ge",
 						"getMessage"
@@ -57,7 +123,7 @@
 				[
 					[
 						"view",
-						"View: Toggle Side Bar"
+						"View: Toggle Menu"
 					],
 					[
 						"packagelis",
@@ -108,63 +174,134 @@
 			},
 			"file_history":
 			[
-				"/F/Cxsv.bak/load.php",
-				"/F/Cxsv.bak/appServer.php",
-				"/F/Cxsv.bak/lib/AppServer.php",
-				"/F/sw/plugin/onResponse/onResponse.php",
-				"/F/Cxsv.bak/lib/HttpServer.php",
-				"/F/sw/lib/AppServer.php",
-				"/F/sw/lib/HttpServer.php",
-				"/F/yedadou/openyedadou_trunk/admin/vendor/Act/Finance/Audit.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/BaseOrder.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Order/Callback.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/BaseCallbackYiyuan.php",
-				"/F/yedadou/openyedadou_trunk/admin/vendor/Act/Finance/ReCommission.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Start.php",
-				"/C/Users/Administrator/Desktop/Yedadou商城优化方案",
-				"/D/sublime/Data/Packages/Emmet/Emmet.sublime-settings",
-				"/D/sublime/Data/Packages/Emmet/Default (Windows).sublime-keymap",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/BasePintuan.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Shop/ShopGoods/ProductDetails.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Shop/BaseShop.php",
-				"/F/sw/lib/Model.php",
-				"/F/sw/lib/Loader.php",
-				"/F/yedadou/openyedadou_trunk/apps/Cron/PintuanAutoFail.php",
-				"/F/yedadou/openyedadou_trunk/api/Act/Yedadou/Flow/Money.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Admin/Order/OrderList.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Callback.php",
+				"/C/Users/Administrator/Desktop/slow_query_log.sql",
+				"/F/PHP/Lab/slow_query_log/slow_query_sql.txt",
+				"/F/PHP/Lab/slow_query_log/slow_query_log.txt",
+				"/D/sublime/Data/Packages/Mark/Xshell/xshell",
+				"/F/PHP/Lab/slow_query_log/fetch_log.php",
+				"/F/PHP/Lab/slow_query_log/mysql_config.php",
+				"/F/PHP/Lab/fetch_log.php",
+				"/F/PHP/Lab/test.txt",
+				"/F/PHP/Lab/slow_query_log.txt",
+				"/C/Users/Administrator/Desktop/test.txt",
+				"/C/Users/Administrator/Desktop/test.text",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Address.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Widget/Shop/Ad/Ad.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/Mod/Member.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/Plugin/OnSubscribe/OnSubscribe.php",
+				"/F/Yedadou/code/openyedadou_trunk/admin/vendor/Act/Finance/Withdraw.php",
+				"/F/Yedadou/code/openyedadou_trunk/admin/vendor/Act/Message/Record.php",
+				"/F/SW/lib/App/MsgTpl.php",
+				"/F/SW/load.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/msg/Act/Receiver.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/Task/AddPointToParentOnSubscribe.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Widget/Shop/Ad/Tpl/default/config.php",
+				"/F/SW/etc/yddvendor.ini",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Plugin/AfterShareFans/AfterShareFans.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Member.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/MemberLevel.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/TeamMember.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Balance.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Act/Yedadou/Flow/Commission.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Act/Yedadou/Flow/Point.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/Plugin/AddPointOnSubscribe/AddPointOnSubscribe.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/crossdomain.xml",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Widget/BaseWidget.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseApp.php",
+				"/D/sublime/Data/Packages/Mark/mysql/mysql优化总结.md",
 				"/D/sublime/Data/Packages/User/Preferences.sublime-settings",
-				"/F/yedadou/openyedadou_trunk/apps/Plugin/PintuanLottery/PintuanLottery.php",
-				"/F/yedadou/openyedadou_trunk/weixin/api/Act/Pay/OrderPay.php",
-				"/F/yedadou/openyedadou_trunk/apps/Mod/ShopGoodsConfig.php",
+				"/D/sublime/Data/Packages/Mark/liunx/CentOS/CentOS 修改时区和保持时间同步",
+				"/D/sublime/Data/Packages/Mark/mysql/mysql 导入sql文件",
+				"/D/sublime/Data/Packages/Mark/mysql优化.md",
+				"/D/sublime/Data/Packages/mysql优化.md",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Tpl/default/shop/index/index.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Widget/Shop/Ad/Tpl/default/ad.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Money.php",
+				"/C/Users/Administrator/Desktop/一元风暴数据库_slowlog_2016-02-26.log",
+				"/F/Yedadou/code/openyedadou_noopen/weixin/Task/AddPointToParentOnSubscribe.php",
+				"/F/Yedadou/code/openyedadou_noopen/weixin/Plugin/AddPointOnSubscribe/AddPointOnSubscribe.php",
+				"/F/Yedadou/code/openyedadou_noopen/apps/Act/BaseAdmin.php",
+				"/F/Yedadou/code/openyedadou_noopen/apps/Act/BaseApp.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Act/Yedadou/Order.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Order.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/Plugin/AddPointOnSubscribe/enabled",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Tpl/default/yiyuan/usercenter/withdraw/index.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Mod/WithDraw.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Yiyuan/UserCenter/Withdraw.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Shop/UserCenter/Withdraw.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Point.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/PointFlow.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Yiyuan/Order/Callback.php",
+				"/F/Yedadou/code/openyedadou_trunk/admin/company/Act/Tools/CorrectPoint.php",
+				"/F/PHP/Lab/date.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseAdmin.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/index.html",
+				"/D/sublime/Data/Packages/Default/Preferences.sublime-settings",
 				"/D/sublime/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/D/sublime/Data/Packages/Alignment/Default (Windows).sublime-keymap",
-				"/D/sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/F/Cxsv.bak/lib/Model.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Group.php",
-				"/F/sw/load.php",
-				"/F/php/nothing/getimgs.php",
-				"/F/yedadou/openyedadou_trunk/apps/Tpl/default/yiyuan/pintuan/public/html_header.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/BaseApp.php",
-				"/F/yedadou/openyedadou_trunk/apps/Tpl/default/yiyuan/pintuan/group/index.php",
-				"/F/sw/lib/Payment/Payment.php",
-				"/F/yedadou/openyedadou_trunk/weixin/Task/PayCallback.php",
-				"/F/sw/lib/Payment/Weixin/Weixin.php",
-				"/F/yedadou/openyedadou_trunk/weixin/api/Act/Pay/WxPay.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Pay/Pay.php",
-				"/F/yedadou/openyedadou_trunk/api/Mod/BaseOrder.php",
-				"/F/yedadou/openyedadou_trunk/admin/company/Act/App/App.php",
-				"/C/Users/Administrator/Desktop/BaseAdmin.php",
-				"/F/yedadou/openyedadou_trunk/apps/Lib/FeiLib/Fitervalidator.php",
-				"/F/yedadou/openyedadou_trunk/admin/company/Act/Os/Backend.php",
-				"/D/sublime/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Users/Administrator/Desktop/新建文件夹/config.ini",
+				"/F/PHP/Lab/phpinfo.php",
+				"/D/xampp/php/php.ini",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseAdminFei.php",
 				"/D/sublime/Data/Packages/User/SublimeLinter.sublime-settings",
-				"/F/yedadou/openyedadou_noopen/apps/Tpl/default/yiyuan/pintuan/mygroups/index.php",
-				"/D/sublime/Data/Packages/Theme - Default/Default.sublime-theme",
-				"/D/sublime/Data/Packages/Colorcoder/Flatland Monokai (Colorcoded).tmTheme",
-				"/D/sublime/Data/Packages/Theme - Flatland/Flatland Dark.sublime-theme",
-				"/D/sublime/Data/Packages/Theme - Flatland/Flatland Monokai.tmTheme",
-				"/F/yedadou/openyedadou_trunk/old-new.sql"
+				"/D/sublime/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/F/shopnc/data/model/setting.model.php",
+				"/F/shopnc/core/framework/function/core.php",
+				"/F/shopnc/admin/control/promotion_mansong.php",
+				"/F/shopnc/admin/templates/default/promotion_mansong.setting.php",
+				"/C/Users/Administrator/Desktop/修改文档.txt",
+				"/F/shopnc/admin/templates/default/voucher.setting.php",
+				"/F/shopnc/admin/control/voucher.php",
+				"/F/shopnc/index.php",
+				"/F/shopnc/admin/index.php",
+				"/F/shopnc/admin/templates/default/promotion_bundling.setting.php",
+				"/F/shopnc/core/framework/core/base.php",
+				"/F/shopnc/global.php",
+				"/F/shopnc/shop/index.php",
+				"/F/Yedadou/code/openyedadou_trunk/readme.txt",
+				"/C/Users/Administrator/Desktop/init.bat",
+				"/D/xampp/apache/conf/httpd.conf",
+				"/D/xampp/apache/conf/extra/httpd-ssl.conf",
+				"/D/xampp/apache/conf/extra/httpd-xampp.conf",
+				"/D/xampp/mysql/bin/my.ini",
+				"/C/Users/Administrator/Desktop/新建文本文档.txt",
+				"/C/Users/Administrator/Desktop/sqlite3/kyominiblog.db3",
+				"/F/xampp/htdocs/forbidden/.htpasswd",
+				"/F/xampp/htdocs/forbidden/.htaccess",
+				"/F/xampp/htdocs/Examples/.project",
+				"/F/PHP/DesignModel/IMooc/Loader.php",
+				"/F/PHP/DesignModel/IMooc/Config.php",
+				"/F/xampp/htdocs/weishang备份/index.php",
+				"/F/PHP/DesignModel/IMooc/Application.php",
+				"/F/xampp/htdocs/weishang备份/backup_db.sh",
+				"/F/xampp/htdocs/weishang备份/Application/Proc/Controller/DbController.class.php",
+				"/F/xampp/htdocs/index.php",
+				"/F/PHP/DesignModel/index.php",
+				"/F/xampp/htdocs/xampp/start.php",
+				"/F/xampp/htdocs/xampp/phpinfo.php",
+				"/F/PHP/OOP/class11.php",
+				"/F/PHP/OOP/class12.php",
+				"/F/PHP/OOP/class13.php",
+				"/F/PHP/OOP/class14.php",
+				"/F/PHP/OOP/spl.php",
+				"/F/PHP/OOP/class03.php",
+				"/F/PHP/OOP/class04.php",
+				"/F/PHP/OOP/class05.php",
+				"/F/PHP/OOP/class06.php",
+				"/F/PHP/OOP/class08.php",
+				"/F/PHP/OOP/class09.php",
+				"/F/PHP/OOP/class10.php",
+				"/F/PHP/OOP/class02.php",
+				"/F/PHP/OOP/class01.php",
+				"/F/PHP/SinaWork/flight/Flight.php",
+				"/F/PHP/SinaWork/flight/Engine.php",
+				"/F/PHP/SinaWork/cgi/sinapay/public/Check.calss.php",
+				"/F/PHP/SinaWork/cgi/sinapay/public/Security.class.php",
+				"/F/PHP/SinaWork/flight/autoload.php",
+				"/F/PHP/SinaWork/flight/core/Loader.php",
+				"/F/PHP/SinaWork/cgi/sinapay/order1.class.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Task/SendMessageToGroup.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseCallback.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Shop/Order/Callback.php"
 			],
 			"find":
 			{
@@ -175,6 +312,11 @@
 				"height": 111.0,
 				"where_history":
 				[
+					"F:\\Yedadou\\code\\openyedadou_trunk",
+					"F:\\Yedadou\\code\\openyedadou_noopen",
+					"F:\\Yedadou\\code\\openyedadou_trunk",
+					"F:\\shopnc",
+					"F:\\Yedadou\\code\\openyedadou_trunk",
 					"F:\\Cxsv.bak",
 					"F:\\sw",
 					"F:\\Cxsv.bak",
@@ -188,6 +330,45 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					":",
+					"；",
+					"# Time:",
+					"Time:",
+					"time",
+					"Time",
+					" Time: 160226  0:00:40",
+					"Time",
+					"#",
+					"fork",
+					"addNewUser",
+					"__CONTENT__",
+					"addNewUser",
+					"on_subscribe",
+					"OnS",
+					"addNewUser",
+					"getParent",
+					"fieldsData",
+					"member",
+					"getUser",
+					"checkParams",
+					"AddPointToParentOnSubscribe",
+					"addNewUser",
+					"Query_time",
+					"rollBackBalancePoint",
+					"finally",
+					"6001",
+					"com",
+					"extension",
+					"taobao_api_isuse",
+					"F:",
+					"browscap ",
+					"F:",
+					"F",
+					"get",
+					"share_data",
+					"log",
+					"sleep",
+					"SendMessageToGroup",
 					"OnRequest",
 					"start",
 					"_onRequest",
@@ -230,6 +411,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					" "
 				],
 				"reverse": false,
 				"show_context": true,
@@ -239,13 +421,13 @@
 			},
 			"incremental_find":
 			{
-				"height": 41.0
+				"height": 33.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 41.0
 			},
-			"menu_visible": false,
+			"menu_visible": true,
 			"output.find_results":
 			{
 				"height": 0.0
@@ -253,7 +435,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 76.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -262,6 +444,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"vou",
+						"shopnc\\admin\\control\\voucher.php"
+					],
 					[
 						"l/app",
 						"Cxsv.bak\\lib\\AppServer.php"
@@ -303,7 +489,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 406.0,
+			"side_bar_width": 489.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -318,6 +504,78 @@
 			{
 				"selected_items":
 				[
+					[
+						"yiyua",
+						"yiyaun_slow_query.log"
+					],
+					[
+						"slow",
+						"slow_query_sql_test.txt"
+					],
+					[
+						"rest",
+						"result_ids"
+					],
+					[
+						"e",
+						"error2"
+					],
+					[
+						"ro",
+						"row"
+					],
+					[
+						"c",
+						"count"
+					],
+					[
+						"my",
+						"mysql_connect"
+					],
+					[
+						"array_f",
+						"array_filter"
+					],
+					[
+						"exp",
+						"explode"
+					],
+					[
+						"row",
+						"rows"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"openi",
+						"open_id"
+					],
+					[
+						"requs",
+						"request_data"
+					],
+					[
+						"fi",
+						"fieldsData"
+					],
+					[
+						"res",
+						"resultData"
+					],
+					[
+						"a",
+						"argvs"
+					],
+					[
+						"argv",
+						"argvs"
+					],
+					[
+						"ch",
+						"check_data"
+					],
 					[
 						"s",
 						"stack"
@@ -346,6 +604,23 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/F/PHP/Lab/slow_query_log/make_slow_query_sql.php",
+					"settings":
+					{
+						"buffer_size": 959,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "r34558\nr34563\nr34564\nr34567\nr34569\nr34570\nr34573\nr34586\nr34587\nr34611\nr34618\n",
+					"settings":
+					{
+						"buffer_size": 77,
+						"line_ending": "Windows",
+						"name": "r34558"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -411,15 +686,88 @@
 			},
 			"expanded_folders":
 			[
-				"/F/Yedadou/code/openyedadou_trunk/apps",
-				"/F/Yedadou/code/openyedadou_trunk/apps/Act",
-				"/F/Yedadou/code/openyedadou_trunk/apps/Mod",
-				"/F/PHP",
-				"/F/PHP/Lab"
+				"/F/PHP/Lab",
+				"/F/PHP/Lab/slow_query_log",
+				"/D/sublime/Data/Packages/Mark",
+				"/D/sublime/Data/Packages/Mark/liunx",
+				"/D/sublime/Data/Packages/Mark/mysql",
+				"/D/sublime/Data/Packages/Mark/Xshell"
 			],
 			"file_history":
 			[
+				"/D/sublime/Data/Packages/Mark/liunx/shell/shell",
 				"/D/sublime/Data/Packages/User/Preferences.sublime-settings",
+				"/F/PHP/Lab/slow_query_log/slow_query_sql_test.txt",
+				"/F/PHP/Lab/slow_query_log/yiyaun_slow_query.log",
+				"/F/PHP/Lab/slow_query_log/slow_query_sql.sql",
+				"/D/backup_2016-02-25.sql",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Yiyuan/Order/Callback.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Shop/Admin/Product/AddStoreProduct.php",
+				"/F/Yedadou/code/openyedadou_noopen/apps/Act/Shop/Admin/Product/Category.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Yiyuan/Order/Done.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Yiyuan/Order/Pay.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseOrder.php",
+				"/F/SW/load.php",
+				"/F/PHP/Lab/min.php",
+				"/C/Users/Administrator/Desktop/slow_query_log.sql",
+				"/F/PHP/Lab/slow_query_log/slow_query_sql.txt",
+				"/F/PHP/Lab/slow_query_log/slow_query_log.txt",
+				"/D/sublime/Data/Packages/Mark/Xshell/xshell",
+				"/F/PHP/Lab/slow_query_log/fetch_log.php",
+				"/F/PHP/Lab/slow_query_log/mysql_config.php",
+				"/F/PHP/Lab/fetch_log.php",
+				"/F/PHP/Lab/test.txt",
+				"/F/PHP/Lab/slow_query_log.txt",
+				"/C/Users/Administrator/Desktop/test.txt",
+				"/C/Users/Administrator/Desktop/test.text",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Address.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Widget/Shop/Ad/Ad.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/Mod/Member.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/Plugin/OnSubscribe/OnSubscribe.php",
+				"/F/Yedadou/code/openyedadou_trunk/admin/vendor/Act/Finance/Withdraw.php",
+				"/F/Yedadou/code/openyedadou_trunk/admin/vendor/Act/Message/Record.php",
+				"/F/SW/lib/App/MsgTpl.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/msg/Act/Receiver.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/Task/AddPointToParentOnSubscribe.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Widget/Shop/Ad/Tpl/default/config.php",
+				"/F/SW/etc/yddvendor.ini",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Plugin/AfterShareFans/AfterShareFans.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Member.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/MemberLevel.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/TeamMember.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Balance.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Act/Yedadou/Flow/Commission.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Act/Yedadou/Flow/Point.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/Plugin/AddPointOnSubscribe/AddPointOnSubscribe.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/crossdomain.xml",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Widget/BaseWidget.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseApp.php",
+				"/D/sublime/Data/Packages/Mark/mysql/mysql优化总结.md",
+				"/D/sublime/Data/Packages/Mark/liunx/CentOS/CentOS 修改时区和保持时间同步",
+				"/D/sublime/Data/Packages/Mark/mysql/mysql 导入sql文件",
+				"/D/sublime/Data/Packages/Mark/mysql优化.md",
+				"/D/sublime/Data/Packages/mysql优化.md",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Tpl/default/shop/index/index.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Widget/Shop/Ad/Tpl/default/ad.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Money.php",
+				"/C/Users/Administrator/Desktop/一元风暴数据库_slowlog_2016-02-26.log",
+				"/F/Yedadou/code/openyedadou_noopen/weixin/Task/AddPointToParentOnSubscribe.php",
+				"/F/Yedadou/code/openyedadou_noopen/weixin/Plugin/AddPointOnSubscribe/AddPointOnSubscribe.php",
+				"/F/Yedadou/code/openyedadou_noopen/apps/Act/BaseAdmin.php",
+				"/F/Yedadou/code/openyedadou_noopen/apps/Act/BaseApp.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Act/Yedadou/Order.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Order.php",
+				"/F/Yedadou/code/openyedadou_trunk/weixin/Plugin/AddPointOnSubscribe/enabled",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Tpl/default/yiyuan/usercenter/withdraw/index.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Mod/WithDraw.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Yiyuan/UserCenter/Withdraw.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Shop/UserCenter/Withdraw.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/Point.php",
+				"/F/Yedadou/code/openyedadou_trunk/api/Mod/PointFlow.php",
+				"/F/Yedadou/code/openyedadou_trunk/admin/company/Act/Tools/CorrectPoint.php",
+				"/F/PHP/Lab/date.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseAdmin.php",
+				"/F/Yedadou/code/openyedadou_trunk/apps/index.html",
 				"/D/sublime/Data/Packages/Default/Preferences.sublime-settings",
 				"/D/sublime/Data/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/Administrator/Desktop/新建文件夹/config.ini",
@@ -428,7 +776,6 @@
 				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseAdminFei.php",
 				"/D/sublime/Data/Packages/User/SublimeLinter.sublime-settings",
 				"/D/sublime/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseAdmin.php",
 				"/F/shopnc/data/model/setting.model.php",
 				"/F/shopnc/core/framework/function/core.php",
 				"/F/shopnc/admin/control/promotion_mansong.php",
@@ -448,7 +795,6 @@
 				"/D/xampp/apache/conf/extra/httpd-ssl.conf",
 				"/D/xampp/apache/conf/extra/httpd-xampp.conf",
 				"/D/xampp/mysql/bin/my.ini",
-				"/F/PHP/Lab/date.php",
 				"/C/Users/Administrator/Desktop/新建文本文档.txt",
 				"/C/Users/Administrator/Desktop/sqlite3/kyominiblog.db3",
 				"/F/xampp/htdocs/forbidden/.htpasswd",
@@ -476,77 +822,7 @@
 				"/F/PHP/OOP/class08.php",
 				"/F/PHP/OOP/class09.php",
 				"/F/PHP/OOP/class10.php",
-				"/F/PHP/OOP/class02.php",
-				"/F/PHP/OOP/class01.php",
-				"/F/PHP/SinaWork/flight/Flight.php",
-				"/F/PHP/SinaWork/flight/Engine.php",
-				"/F/PHP/SinaWork/cgi/sinapay/public/Check.calss.php",
-				"/F/PHP/SinaWork/cgi/sinapay/public/Security.class.php",
-				"/F/PHP/SinaWork/flight/autoload.php",
-				"/F/PHP/SinaWork/flight/core/Loader.php",
-				"/F/PHP/SinaWork/cgi/sinapay/order1.class.php",
-				"/F/Yedadou/code/openyedadou_trunk/apps/Task/SendMessageToGroup.php",
-				"/F/Yedadou/code/openyedadou_trunk/apps/Act/BaseCallback.php",
-				"/F/Yedadou/code/openyedadou_trunk/apps/Act/Shop/Order/Callback.php",
-				"/F/PHP/Lab/call_user_func.php",
-				"/D/sublime/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
-				"/F/PHP/SinaWork/源码框架开发使用文档.pdf",
-				"/F/PHP/Lab/Export.php",
-				"/F/PHP/Lab/Import.php",
-				"/F/PHP/Lab/cate.html",
-				"/F/PHP/README.md",
-				"/F/sw/lib/Model.php",
-				"/F/nodejs/callback.js",
-				"/F/Data/phiz.php",
-				"/F/Cxsv.bak/mark.md",
-				"/F/Cxsv.bak/lib/HttpServer.php",
-				"/F/Cxsv.bak/plugin/onResponse/onResponse.php",
-				"/F/Cxsv.bak/load.php",
-				"/F/Cxsv.bak/lib/AppServer.php",
-				"/F/Cxsv.bak/appServer.php",
-				"/F/Cxsv.bak/lib/Loader.php",
-				"/F/Cxsv.bak/lib/Model.php",
-				"/F/php/call_user_func.php",
-				"/F/sw/plugin/onResponse/onResponse.php",
-				"/F/sw/lib/AppServer.php",
-				"/F/sw/lib/HttpServer.php",
-				"/F/yedadou/openyedadou_trunk/admin/vendor/Act/Finance/Audit.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/BaseOrder.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Order/Callback.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/BaseCallbackYiyuan.php",
-				"/F/yedadou/openyedadou_trunk/admin/vendor/Act/Finance/ReCommission.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Start.php",
-				"/C/Users/Administrator/Desktop/Yedadou商城优化方案",
-				"/D/sublime/Data/Packages/Emmet/Emmet.sublime-settings",
-				"/D/sublime/Data/Packages/Emmet/Default (Windows).sublime-keymap",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/BasePintuan.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Shop/ShopGoods/ProductDetails.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Shop/BaseShop.php",
-				"/F/sw/lib/Loader.php",
-				"/F/yedadou/openyedadou_trunk/apps/Cron/PintuanAutoFail.php",
-				"/F/yedadou/openyedadou_trunk/api/Act/Yedadou/Flow/Money.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Admin/Order/OrderList.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Callback.php",
-				"/F/yedadou/openyedadou_trunk/apps/Plugin/PintuanLottery/PintuanLottery.php",
-				"/F/yedadou/openyedadou_trunk/weixin/api/Act/Pay/OrderPay.php",
-				"/F/yedadou/openyedadou_trunk/apps/Mod/ShopGoodsConfig.php",
-				"/D/sublime/Data/Packages/Alignment/Default (Windows).sublime-keymap",
-				"/D/sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Yiyuan/Pintuan/Group.php",
-				"/F/sw/load.php",
-				"/F/php/nothing/getimgs.php",
-				"/F/yedadou/openyedadou_trunk/apps/Tpl/default/yiyuan/pintuan/public/html_header.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/BaseApp.php",
-				"/F/yedadou/openyedadou_trunk/apps/Tpl/default/yiyuan/pintuan/group/index.php",
-				"/F/sw/lib/Payment/Payment.php",
-				"/F/yedadou/openyedadou_trunk/weixin/Task/PayCallback.php",
-				"/F/sw/lib/Payment/Weixin/Weixin.php",
-				"/F/yedadou/openyedadou_trunk/weixin/api/Act/Pay/WxPay.php",
-				"/F/yedadou/openyedadou_trunk/apps/Act/Pay/Pay.php",
-				"/F/yedadou/openyedadou_trunk/api/Mod/BaseOrder.php",
-				"/F/yedadou/openyedadou_trunk/admin/company/Act/App/App.php",
-				"/C/Users/Administrator/Desktop/BaseAdmin.php",
-				"/F/yedadou/openyedadou_trunk/apps/Lib/FeiLib/Fitervalidator.php"
+				"/F/PHP/OOP/class02.php"
 			],
 			"find":
 			{
@@ -557,6 +833,9 @@
 				"height": 111.0,
 				"where_history":
 				[
+					"F:\\Yedadou\\code\\openyedadou_trunk",
+					"F:\\Yedadou\\code\\openyedadou_noopen",
+					"F:\\Yedadou\\code\\openyedadou_trunk",
 					"F:\\shopnc",
 					"F:\\Yedadou\\code\\openyedadou_trunk",
 					"F:\\Cxsv.bak",
@@ -572,6 +851,38 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"debug",
+					"\n---------------------",
+					"r",
+					"1512769",
+					"m_log",
+					":",
+					"；",
+					"# Time:",
+					"Time:",
+					"time",
+					"Time",
+					" Time: 160226  0:00:40",
+					"Time",
+					"#",
+					"fork",
+					"addNewUser",
+					"__CONTENT__",
+					"addNewUser",
+					"on_subscribe",
+					"OnS",
+					"addNewUser",
+					"getParent",
+					"fieldsData",
+					"member",
+					"getUser",
+					"checkParams",
+					"AddPointToParentOnSubscribe",
+					"addNewUser",
+					"Query_time",
+					"rollBackBalancePoint",
+					"finally",
+					"6001",
 					"com",
 					"extension",
 					"taobao_api_isuse",
@@ -626,6 +937,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					" "
 				],
 				"reverse": false,
 				"show_context": true,
@@ -636,35 +948,215 @@
 			"folders":
 			[
 				{
-					"path": "F:\\Yedadou\\code\\openyedadou_trunk"
+					"path": "F:\\CXSV"
 				},
 				{
 					"path": "F:\\PHP"
 				},
 				{
-					"path": "F:\\CXSV"
+					"path": "F:\\Yedadou\\code\\openyedadou_noopen"
+				},
+				{
+					"path": "F:\\Yedadou\\code\\openyedadou_trunk"
 				},
 				{
 					"path": "F:\\SW"
 				},
 				{
-					"path": "F:\\xampp\\htdocs\\Examples"
-				},
-				{
-					"path": "F:\\shopnc"
+					"path": "D:\\sublime\\Data\\Packages\\Mark"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 1,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/F/PHP/Lab/slow_query_log/make_slow_query_sql.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 959,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										841,
+										841
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"colorcode": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 77,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "r34558",
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"colorcode": true,
+									"default_dir": "F:\\CXSV",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 41.0
+				"height": 33.0
 			},
 			"input":
 			{
@@ -698,11 +1190,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,818,162,139,1470",
+			"position": "0,2,3,-32000,-32000,-1,-1,848,72,88,1608",
 			"project": "",
 			"replace":
 			{
-				"height": 76.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -760,12 +1252,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 373.0,
+			"side_bar_width": 262.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 7,
 			"workspace_name": ""
 		}
 	],
